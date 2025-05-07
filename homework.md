@@ -1,1 +1,6 @@
- - 
+ - what are dependencies
+ - difference between caret and tilde ( ^ vs ~ )
+ - play with routes and route extensions hello, hello/1
+ - order of routes matter a lot
+ - reading the queryparams in routes
+ - reading the dynamic routes
